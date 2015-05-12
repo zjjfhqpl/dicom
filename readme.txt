@@ -6,4 +6,4 @@ Creating a new branch is quick.
 Creating a new branch is quick and simple.
 git can merge branches.
 git bug was fixed.
-git release
+git release.
